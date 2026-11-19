@@ -1,7 +1,9 @@
 export default function App() {
   return (
     <>
-      <h1>Certificate Management System</h1>
+      <div className="container">
+        <h1>Certificate Management System</h1>
+      </div>
     </>
   );
 }
